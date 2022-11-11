@@ -1,0 +1,21 @@
+{
+    "items": [
+        {
+            "name": "Homebrew Settings",
+            "banner": "https://cdn1.iconfinder.com/data/icons/development-16/48/Asset_15-512.png",
+            "info": "Homebrew settings",
+            "link": "file://C:/"
+        },
+        {
+            "name": "Version of homebrew (hover)",
+            "banner": "https://cdn-icons-png.flaticon.com/512/64/64159.png",
+            "info": "v1.0.0 (alpha)"
+        },
+        {
+            "name": "Twitter (homebrewed)",
+            "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAYeb_5PVn43NJ3TZqG81mKzphwcKHQV81c-vSjLqU&s",
+            "info": "Social media",
+            "link": "https://twitter.com"
+        }
+    ]
+}
