@@ -28,6 +28,18 @@
             "banner": "https://cdn.icon-icons.com/icons2/2972/PNG/512/tiktok_logo_icon_186896.png",
             "info": "Social media",
             "link": "https://tiktok.com/?lang=en"
+        },
+        {
+            "name": "Spotify",
+            "banner": "https://www.freepnglogos.com/uploads/spotify-logo-png/image-gallery-spotify-logo-21.png",
+            "info": "Homebrewed Spotify designed to run on Graycrown",
+            "link": "https://open.spotify.com"
+        },
+        {
+            "name": "GrabFood", 
+            "banner": "https://seeklogo.com/images/G/grab-logo-7020E74857-seeklogo.com.png",
+            "info": "Pesen makanan Grab langsung dari Graycrown!",
+            "link": "https://food.grab.com/id/id/"
         }
     ]
 }
