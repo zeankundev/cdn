@@ -16,6 +16,18 @@
             "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAYeb_5PVn43NJ3TZqG81mKzphwcKHQV81c-vSjLqU&s",
             "info": "Social media",
             "link": "https://twitter.com"
+        },
+        {
+            "name:" "Instagram",
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png",
+            "info": "Social media",
+            "link": "https://instagram.com"
+        },
+        {
+            "name": "Tiktok",
+            "banner": "https://cdn.icon-icons.com/icons2/2972/PNG/512/tiktok_logo_icon_186896.png",
+            "info": "Social media",
+            "link": "https://tiktok.com/?lang=en"
         }
     ]
 }
