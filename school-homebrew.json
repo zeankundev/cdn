@@ -1,0 +1,18 @@
+{
+    "items": [
+        {
+            "name": "KIMS Library Visitor Counter", 
+            "banner": "https://libsecondary.khalifaims.sch.id/images/default/logo.png",
+            "info": "UTIL_KIMS_LIB",
+            "link": "https://libsecondary.khalifaims.sch.id/index.php?p=visitor",
+            "developer": "KIMS"
+        },
+        {
+            "name": "KIMS Library", 
+            "banner": "https://libsecondary.khalifaims.sch.id/images/default/logo.png",
+            "info": "UTIL_KIMS_LIB",
+            "link": "https://libsecondary.khalifaims.sch.id/index.php",
+            "developer": "KIMS"
+        }
+    ]
+}
