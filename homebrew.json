@@ -40,6 +40,12 @@
             "banner": "https://seeklogo.com/images/G/grab-logo-7020E74857-seeklogo.com.png",
             "info": "Pesen makanan Grab langsung dari Graycrown!",
             "link": "https://food.grab.com/id/id/"
+        },
+        {
+            "name": "EasyEDA",
+            "info": "Circuit maker",
+            "banner": "https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1",
+            "link": "https://easyeda.com/editor"
         }
     ]
 }
